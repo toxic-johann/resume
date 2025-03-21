@@ -26,9 +26,9 @@ I started on 2019/8/12 as the Staff Tech Lead and lead the player team of Tubi
 Project Description: advertising-based video-on-demand platform
 
 The main work:
-Built a data system for key metrics based on the video player and guided the team in optimizing related business logic, resulting in an average annual revenue increase of around 1% for the company.
-Supported complex player requirements such as live streaming, 4K, and DRM.
-Contributed to supporting the live streaming of the 2025 Super Bowl in the U.S., with 15.5 million concurrent viewers.
+1. Built a data system for key metrics based on the video player and guided the team in optimizing related business logic, resulting in an average annual revenue increase of around 1% for the company.
+2. Supported complex player requirements such as live streaming, 4K, and DRM.
+3. Contributed to supporting the live streaming of the 2025 Super Bowl in the U.S., with 15.5 million concurrent viewers.
 
 ## Tencent
 
