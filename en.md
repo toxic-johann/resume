@@ -22,12 +22,14 @@
 # Work Experience
 
 ## Tubi
-I started on 2019/8/12 as the Senior Tech Lead - Client Applications
+I started on 2019/8/12 as the Staff Tech Lead and lead the player team of Tubi
 Project Description: advertising-based video-on-demand platform
+
 The main work:
-Develop and maintain VOD player and live player of the Tubi App on multiple platforms.
-Lead the player team on player development.
-Improve the player by using MSE, WASM, Web Worker, etc.
+Built a data system for key metrics based on the video player and guided the team in optimizing related business logic, resulting in an average annual revenue increase of around 1% for the company.
+Supported complex player requirements such as live streaming, 4K, and DRM.
+Contributed to supporting the live streaming of the 2025 Super Bowl in the U.S., with 15.5 million concurrent viewers.
+
 ## Tencent
 
 From 2018/4/21 to 2019/8/12, as a Front-end development engineer.
